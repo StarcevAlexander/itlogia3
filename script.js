@@ -1,3 +1,5 @@
+/* изменение в коммите мастер */
+
 const sliderImages = document.querySelector('.slider-images');
 let currentImageIndex = 0;
 
