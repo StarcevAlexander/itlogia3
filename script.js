@@ -62,3 +62,6 @@ document.querySelector('.play-button').addEventListener('click', playTrack)
 
 /* вывод в консоль сообщения нового разработчика */
 alert (321)
+
+/* изменения к js */
+console.log(123)
