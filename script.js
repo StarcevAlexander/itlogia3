@@ -59,3 +59,6 @@ function playTrack() {
 }
 
 document.querySelector('.play-button').addEventListener('click', playTrack)
+
+/* изменения к js */
+console.log(123)
