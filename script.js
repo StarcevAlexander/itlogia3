@@ -59,3 +59,6 @@ function playTrack() {
 }
 
 document.querySelector('.play-button').addEventListener('click', playTrack)
+
+/* вывод в консоль сообщения нового разработчика */
+alert (321)
